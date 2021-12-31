@@ -15,8 +15,8 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Franklin Template"
 website_descr = "Example website using Franklin"
-website_url   = "https://fp4code.github.io/tests/site-basic-001/"
-prepath = "tests/site-basic-001"
+website_url   = "https://fp4code.github.io/test-site-basic-001/"
+prepath = "test-site-basic-001"
 +++
 
 <!--
