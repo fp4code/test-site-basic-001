@@ -1,0 +1,4 @@
+Sitemap: https://fp4code.github.io/tests/site-basic-001/sitemap.xml
+
+User-agent: *
+Disallow:
